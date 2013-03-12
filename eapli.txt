@@ -1,4 +1,3 @@
 Controlo de versões
-Git
 OpenUp
 Down
